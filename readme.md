@@ -2,22 +2,25 @@
 
 **Usage:**
 
-1. `git clone https://github.com/jakhongirs/django-boilerplate-v2.git`
+1. Use this template
 
 
-2. `virtualenv venv`
+2. `git clone url`
 
 
-3. `source venv/bin/activate`
+3. `virtualenv venv`
 
 
-4. `pip install -r requirments.txt`
+4. `source venv/bin/activate`
 
 
-5. Add _local_settings.py_ to the _core_ folder
+5. `pip install -r requirments.txt`
 
 
-6. Add _static_ folder
+6. Add _local_settings.py_ to the _core_ folder
 
 
-7. Enjoy!
+7. Add _static_ folder
+
+
+8. Enjoy!
