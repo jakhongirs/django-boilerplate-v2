@@ -3,3 +3,4 @@ djangorestframework
 psycopg2-binary
 drf_yasg
 django-debug-toolbar
+unidecode
